@@ -1,0 +1,5 @@
+.venv
+.gitignore
+main.py
+db.sqlite3
+migrations
